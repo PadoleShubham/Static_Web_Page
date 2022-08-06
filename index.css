@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+}
+
+.header-list{
+    list-style: none;
+    display:flex;
+    align-content:space-around;
+    
+}
+.header-item{
+    margin-left:50px;
+    font-family: fantasy;
+    font-size:20px;
+}
+h2,h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header-right{
+    padding-top: 10px;
+}
+#col-text{
+    color: aqua;
+}
+.sub-main{
+    display: flex;
+    padding: 5px 20px 5px 10px;
+}
+.left-par{
+    width:50%;
+    padding:20px;
+    margin: 20px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+}
+.right-img{
+    width: 50%;
+}
+#sub-main-one{
+    margin:10px 60px 10px 60px;
+    padding:10px 60px 10px 60px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sub-img{
+    text-align: center;
+}
+.sub-img-one{
+    height:300px;
+    width: 300px;
+    padding: 10px;
+}
+.main-footer{
+    
+    background-color: rgb(126, 146, 210);
+}
+.sub-footer{
+    display: flex;
+    margin:5px 70px 5px 70px;
+}
+
+
